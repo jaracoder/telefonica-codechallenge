@@ -1,0 +1,16 @@
+C:\git\Telefonica.CodeChallenge\CodeChallenge\obj\Debug\Telefonica.CodeChallenge.csproj.AssemblyReference.cache
+C:\git\Telefonica.CodeChallenge\CodeChallenge\obj\Debug\Telefonica.CodeChallenge.csproj.SuggestedBindingRedirects.cache
+C:\git\Telefonica.CodeChallenge\CodeChallenge\obj\Debug\Telefonica.CodeChallenge.csproj.CoreCompileInputs.cache
+C:\git\Telefonica.CodeChallenge\CodeChallenge\bin\Debug\Telefonica.CodeChallenge.exe.config
+C:\git\Telefonica.CodeChallenge\CodeChallenge\bin\Debug\Telefonica.CodeChallenge.exe
+C:\git\Telefonica.CodeChallenge\CodeChallenge\bin\Debug\Telefonica.CodeChallenge.pdb
+C:\git\Telefonica.CodeChallenge\CodeChallenge\obj\Debug\Telefonica.CodeChallenge.exe
+C:\git\Telefonica.CodeChallenge\CodeChallenge\obj\Debug\Telefonica.CodeChallenge.pdb
+C:\git\Telefonica.CodeChallenge\bin\Debug\Telefonica.CodeChallenge.exe.config
+C:\git\Telefonica.CodeChallenge\bin\Debug\Telefonica.CodeChallenge.exe
+C:\git\Telefonica.CodeChallenge\bin\Debug\Telefonica.CodeChallenge.pdb
+C:\git\Telefonica.CodeChallenge\obj\Debug\Telefonica.CodeChallenge.csproj.AssemblyReference.cache
+C:\git\Telefonica.CodeChallenge\obj\Debug\Telefonica.CodeChallenge.csproj.SuggestedBindingRedirects.cache
+C:\git\Telefonica.CodeChallenge\obj\Debug\Telefonica.CodeChallenge.csproj.CoreCompileInputs.cache
+C:\git\Telefonica.CodeChallenge\obj\Debug\Telefonica.CodeChallenge.exe
+C:\git\Telefonica.CodeChallenge\obj\Debug\Telefonica.CodeChallenge.pdb
